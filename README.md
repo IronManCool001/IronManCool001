@@ -9,4 +9,4 @@
 - 💬 Ask me about python,flask,html and css
 
 **Follow Me On:**
-[<img align="left" alt="website" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">]['https:technicalfriend.netlify.app/'](https://technicalfriend.netlify.app/)
+[![<img align="left" alt="website" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https://technicalfriend.netlify.app/)
