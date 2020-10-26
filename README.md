@@ -11,8 +11,6 @@
 **Follow Me On:**
 
 [<img height="20" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https://technicalfriend.netlify.app/)
-<<<<<<< HEAD
-
 [<img height="20" src="http://simpleicons.org/icons/youtube.svg">](https://www.youtube.com/channel/UC-4ARHLauiuXKWnWPjWZHuQ?view_as=subscriber)
-=======
->>>>>>> 431a52734abe0cf89ffe1c964d40fedac5dd9aac
+
+
