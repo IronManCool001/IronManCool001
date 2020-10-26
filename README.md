@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debaditya Malakar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India studying in class 9</h3>
 
 - 🔭 I’m currently working on **Youtube**
 
