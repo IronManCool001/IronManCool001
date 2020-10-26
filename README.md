@@ -10,4 +10,6 @@
 
 **Follow Me On:**
 
-[<img height="20" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https://technicalfriend.netlify.app/)[<img height="40" src="https://img.icons8.com/clouds/100/000000/youtube-squared.png">](https://www.youtube.com/channel/UC-4ARHLauiuXKWnWPjWZHuQ?view_as=subscriber) [<img  height="25" src="https://img.icons8.com/dusk/64/000000/discord-logo.png"/>](https://discord.gg/ZY5Yq5K)
+[<img height="20" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https://technicalfriend.netlify.app/)
+[<img height="40" src="https://img.icons8.com/clouds/100/000000/youtube-squared.png">](https://www.youtube.com/channel/UC-4ARHLauiuXKWnWPjWZHuQ?view_as=subscriber)
+[<img  height="25" src="https://img.icons8.com/dusk/64/000000/discord-logo.png"/>](https://discord.gg/ZY5Yq5K)
