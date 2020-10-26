@@ -11,6 +11,5 @@
 **Follow Me On:**
 
 [<img height="20" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https://technicalfriend.netlify.app/)
-<<<<<<< HEAD
 [<img height="20" src="http://simpleicons.org/icons/youtube.svg" style="color:#ff0000">](https://www.youtube.com/channel/UC-4ARHLauiuXKWnWPjWZHuQ?view_as=subscriber)
 ![GitHub followers](https://img.shields.io/github/followers/IronManCool001?label=GitHub&style=for-the-badge)
