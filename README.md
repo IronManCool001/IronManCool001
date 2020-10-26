@@ -10,5 +10,5 @@
 
 **Follow Me On:**
 
-[<img height="20" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https://technicalfriend.netlify.app/)
- [<img height="40" src="https://img.icons8.com/clouds/100/000000/youtube-squared.png">](https://www.youtube.com/channel/UC-4ARHLauiuXKWnWPjWZHuQ?view_as=subscriber)
+[<img height="20" align="left" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https://technicalfriend.netlify.app/)
+[<img height="40" align="left" src="https://img.icons8.com/clouds/100/000000/youtube-squared.png">](https://www.youtube.com/channel/UC-4ARHLauiuXKWnWPjWZHuQ?view_as=subscriber)
