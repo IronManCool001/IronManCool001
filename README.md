@@ -19,5 +19,5 @@
 
 <details>
   <summary> :zap:Github Stats </summary>
-  <img align="left" src="https://github-readme-stats.ironmancool001.vercel.app/api?8username=IronManCool001&show_icons=true&hide_border=true"/>
+  <img align="left" src="https://github-readme-stats.ironmancool001.vercel.app/api?8username=Debaditya%20Malakar&show_icons=true&hide_border=true"/>
  </details
