@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debaditya Malakar</h1>
 <h3 align="center">A passionate developer from India studying in class 9</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ironmancool001&label=Profile%20views&color=0e75b6&style=flat" alt="ironmancool001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ironmancool001&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ironmancool001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=ironmancool001" alt="ironmancool001" /></a> </p>
 
